@@ -1,0 +1,2 @@
+cd C:\Zack\OneDrive - National University of Singapore\Courses\BT5153\Group Project\squad
+python test.py --load_path save\train\baseline-07\best.pth.tar -n baseline
